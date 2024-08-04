@@ -1,0 +1,36 @@
+{
+    "readers": [
+      {
+        "name": "Yasser Aldosari",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Yasser_Al-Dosari.jpg",
+        "surahs": [
+          {
+            "name": "Surah Al-Fatihah",
+            "number": 1
+          },
+          {
+            "name": "Surah Al-Baqarah",
+            "number": 2
+          },
+          {
+            "name": "Surah Al-Imran",
+            "number": 3
+          }
+        ]
+      },
+      {
+        "name": "Mishari Alafasi",
+        "image": "https://example.com/reader2.jpg",
+        "surahs": [
+          {
+            "name": "Surah Yasin",
+            "number": 36
+          },
+          {
+            "name": "Surah Ar-Rahman",
+            "number": 55
+          }
+        ]
+      }
+    ]
+  }
