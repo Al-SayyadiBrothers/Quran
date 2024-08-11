@@ -291,6 +291,7 @@
       {
         "name": "Mishari Alafasi",
         "image": "MishariAlafassi.jfif",
+        "SurahsPath" : "Quran/MashariAlafassi/",
         "surahs": [
           {
             "Idx": "2",
@@ -300,7 +301,7 @@
             "UniqueId": "1"
           },
           {
-            "Idx": "36",
+            "Idx": "2",
             "ContentRefrence": "SurahAlbaqarah_2.mp3",
             "Duration": "03:57",
             "SpecialEnding": "2",
