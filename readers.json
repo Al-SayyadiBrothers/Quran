@@ -1,0 +1,312 @@
+{
+    "readers": [
+      {
+        "name": "Yasser Aldosari",
+        "image": "yasseraldousery2.png",
+        "SurahsPath" : "Quran/YasserAldousserry/",
+
+        "surahs": [
+          {
+            "Idx": "46",
+            "ContentRefrence": "سورة الأحقاف - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "10:28",
+            "SpecialEnding": "",
+            "UniqueId": "1"
+          },
+          {
+            "Idx": "7",
+            "ContentRefrence": "سورة الأعراف - ياسر الدوسري (1-2).m4a",
+            "Duration": "40:06",
+            "SpecialEnding": "(1-2)",
+            "UniqueId": "2"
+          },
+          {
+            "Idx": "7",
+            "ContentRefrence": "سورة الأعراف - ياسر الدوسري (2-2).m4a",
+            "Duration": "35:35",
+            "SpecialEnding": "(2-2)",
+            "UniqueId": "3"
+          },
+          {
+            "Idx": "21",
+            "ContentRefrence": "سورة الأنبياء - ياسر الدوسري (كاملة).m4a",
+            "Duration": "22:22",
+            "SpecialEnding": "",
+            "UniqueId": "4"
+          },
+          {
+            "Idx": "6",
+            "ContentRefrence": "سورة الأنعام  - ياسر الدوسري  (كاملة).m4a",
+            "Duration": "59:05",
+            "SpecialEnding": "",
+            "UniqueId": "5"
+          },
+          {
+            "Idx": "8",
+            "ContentRefrence": "سورة الأنفال - ياسر الدوسري (كاملة).m4a",
+            "Duration": "30:34",
+            "SpecialEnding": "",
+            "UniqueId": "6"
+          },
+          {
+            "Idx": "17",
+            "ContentRefrence": "سورة الإسراء - ياسر الدوسري (كاملة).m4a",
+            "Duration": "36:23",
+            "SpecialEnding": "",
+            "UniqueId": "7"
+          },
+          {
+            "Idx": "66",
+            "ContentRefrence": "سورة التحريم   ياسر الدوسري 1425 هجري.m4a",
+            "Duration": "05:40",
+            "SpecialEnding": "",
+            "UniqueId": "8"
+          },
+          {
+            "Idx": "64",
+            "ContentRefrence": "سورة التغابن - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "04:49",
+            "SpecialEnding": "",
+            "UniqueId": "9"
+          },
+          {
+            "Idx": "9",
+            "ContentRefrence": "سورة التوبة - ياسر الدوسري (كاملة).m4a",
+            "Duration": "54:32",
+            "SpecialEnding": "",
+            "UniqueId": "10"
+          },
+          {
+            "Idx": "45",
+            "ContentRefrence": "سورة الجاثية - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "07:34",
+            "SpecialEnding": "",
+            "UniqueId": "11"
+          },
+          {
+            "Idx": "50",
+            "ContentRefrence": "سورة الحاقة ياسر الدوسري 1425 هــ.m4a",
+            "Duration": "14:47",
+            "SpecialEnding": "",
+            "UniqueId": "12"
+          },
+          {
+            "Idx": "22",
+            "ContentRefrence": "سورة الحج - ياسر الدوسري (كاملة).m4a",
+            "Duration": "24:35",
+            "SpecialEnding": "",
+            "UniqueId": "13"
+          },
+          {
+            "Idx": "59",
+            "ContentRefrence": "سورة الحشر - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "09:16",
+            "SpecialEnding": "",
+            "UniqueId": "14"
+          },
+          {
+            "Idx": "44",
+            "ContentRefrence": "سورة الدخان - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "06:39",
+            "SpecialEnding": "",
+            "UniqueId": "15"
+          },
+          {
+            "Idx": "30",
+            "ContentRefrence": "سورة الروم - ياسر الدوسري (كاملة).m4a",
+            "Duration": "15:30",
+            "SpecialEnding": "",
+            "UniqueId": "16"
+          },
+          {
+            "Idx": "43",
+            "ContentRefrence": "سورة الزخرف - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "15:41",
+            "SpecialEnding": "",
+            "UniqueId": "17"
+          },
+          {
+            "Idx": "39",
+            "ContentRefrence": "سورة الزمر - الشيخ ياسر الدوسري - تلاوة قديمه 1425 هـ.m4a",
+            "Duration": "31:00",
+            "SpecialEnding": "",
+            "UniqueId": "18"
+          },
+          {
+            "Idx": "32",
+            "ContentRefrence": "سورة السجدة - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "11:12",
+            "SpecialEnding": "",
+            "UniqueId": "19"
+          },
+          {
+            "Idx": "26",
+            "ContentRefrence": "سورة الشعراء - ياسر الدوسري - (كاملة).m4a",
+            "Duration": "21:38",
+            "SpecialEnding": "",
+            "UniqueId": "20"
+          },
+          {
+            "Idx": "42",
+            "ContentRefrence": "سورة الشورى - الشيخ ياسر الدوسري - تلاوة قديمة 1425 هـ.m4a",
+            "Duration": "15:34",
+            "SpecialEnding": "",
+            "UniqueId": "21"
+          },
+          {
+            "Idx": "29",
+            "ContentRefrence": "سورة العنكبوت - ياسر الدوسري (كاملة).m4a",
+            "Duration": "18:00",
+            "SpecialEnding": "",
+            "UniqueId": "22"
+          },
+          {
+            "Idx": "48",
+            "ContentRefrence": "سورة الفتح - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "09:16",
+            "SpecialEnding": "",
+            "UniqueId": "23"
+          },
+          {
+            "Idx": "28",
+            "ContentRefrence": "سورة القصص - ياسر الدوسري (كاملة).m4a",
+            "Duration": "25:30",
+            "SpecialEnding": "",
+            "UniqueId": "24"
+          },
+          {
+            "Idx": "18",
+            "ContentRefrence": "سورة الكهف - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "32:46",
+            "SpecialEnding": "",
+            "UniqueId": "25"
+          },
+          {
+            "Idx": "23",
+            "ContentRefrence": "سورة المؤمنون - ياسر الدوسري - (كاملة).m4a",
+            "Duration": "21:54",
+            "SpecialEnding": "",
+            "UniqueId": "26"
+          },
+          {
+            "Idx": "58",
+            "ContentRefrence": "سورة المجادلة - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "07:21",
+            "SpecialEnding": "",
+            "UniqueId": "27"
+          },
+          {
+            "Idx": "60",
+            "ContentRefrence": "سورة الممتحنة - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "06:42",
+            "SpecialEnding": "",
+            "UniqueId": "28"
+          },
+          {
+            "Idx": "16",
+            "ContentRefrence": "سورة النحل - ياسر الدوسري (كاملة).m4a",
+            "Duration": "37:59",
+            "SpecialEnding": "",
+            "UniqueId": "29"
+          },
+          {
+            "Idx": "4",
+            "ContentRefrence": "سورة النساء - ياسر الدوسري (1-2).m4a",
+            "Duration": "39:48",
+            "SpecialEnding": "(1-2)",
+            "UniqueId": "30"
+          },
+          {
+            "Idx": "4",
+            "ContentRefrence": "سورة النساء - ياسر الدوسري (2-2).m4a",
+            "Duration": "40:04",
+            "SpecialEnding": "(2-2)",
+            "UniqueId": "31"
+          },
+          {
+            "Idx": "27",
+            "ContentRefrence": "سورة النمل - ياسر الدوسري (كاملة).m4a",
+            "Duration": "25:32",
+            "SpecialEnding": "",
+            "UniqueId": "32"
+          },
+          {
+            "Idx": "38",
+            "ContentRefrence": "سورة ص - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "14:22",
+            "SpecialEnding": "",
+            "UniqueId": "33"
+          },
+          {
+            "Idx": "20",
+            "ContentRefrence": "سورة طه - ياسر الدوسري (كاملة).m4a",
+            "Duration": "27:00",
+            "SpecialEnding": "",
+            "UniqueId": "34"
+          },
+          {
+            "Idx": "40",
+            "ContentRefrence": "سورة غافر - الشيخ ياسر الدوسري - تلاوة قديمة 1425 هـ.m4a",
+            "Duration": "22:03",
+            "SpecialEnding": "",
+            "UniqueId": "35"
+          },
+          {
+            "Idx": "41",
+            "ContentRefrence": "سورة فصلت - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "16:50",
+            "SpecialEnding": "",
+            "UniqueId": "36"
+          },
+          {
+            "Idx": "47",
+            "ContentRefrence": "سورة محمد - الشيخ ياسر الدوسري - 1425 هـ.m4a",
+            "Duration": "12:01",
+            "SpecialEnding": "",
+            "UniqueId": "37"
+          },
+          {
+            "Idx": "11",
+            "ContentRefrence": "سورة هود - الشيخ ياسر الدوسري - تلاوة قديمه 1425 هـ.m4a",
+            "Duration": "39:06",
+            "SpecialEnding": "",
+            "UniqueId": "38"
+          },
+          {
+            "Idx": "15",
+            "ContentRefrence": "سوره الحجرات - الشيخ ياسر الدوسري .m4a",
+            "Duration": "07:13",
+            "SpecialEnding": "",
+            "UniqueId": "39"
+          },
+          {
+            "Idx": "61",
+            "ContentRefrence": "سوره الصف - الشيخ ياسر الدوسري .m4a",
+            "Duration": "03:57",
+            "SpecialEnding": "",
+            "UniqueId": "40"
+          }
+        ]
+      },
+      {
+        "name": "Mishari Alafasi",
+        "image": "MishariAlafassi.jfif",
+        "surahs": [
+          {
+            "Idx": "3",
+            "ContentRefrence": "01 البقرة كاملة.m4a",
+            "Duration": "03:57",
+            "SpecialEnding": "",
+            "UniqueId": "40"
+          },
+          {
+            "Idx": "61",
+            "ContentRefrence": "سوره الصف - الشيخ ياسر الدوسري .m4a",
+            "Duration": "03:57",
+            "SpecialEnding": "",
+            "UniqueId": "40"
+          }
+        ]
+      }
+    ]
+  }
