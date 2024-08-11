@@ -1,0 +1,34 @@
+{
+    "Content": [
+      {
+        "RepoLink" : "Quran/SpecialResources/",
+
+        "Items": [
+          {
+            "Idx": "2",
+            "type" : "audio",
+            "ContentRefrence": "سورة البقرة.mp4",
+            "displayName": "Surah Al-Baqarah - سورة البقرة",
+            "ArtistName" : "Mishari Alafassi",
+            "Image" : "MishariAlafassi.jfif"
+          },
+          {
+            "Idx": "36",
+            "type" : "video",
+            "ContentRefrence": "سورة يس.mp3",
+            "displayName": "Al-Baqarah - سورة البقرة",
+            "ArtistName" : "Al Sudis",
+            "Image" : "MishariAlafassi.jfif"
+          },
+          {
+            "Idx": "-1",
+            "type" : "video",
+            "ContentRefrence": "1.mp4",
+            "displayName": "Sermon",
+            "ArtistName" : "Al Sha'araui",
+            "Image" : "FromVideo"
+          }
+        ]
+      }
+    ]
+  }
