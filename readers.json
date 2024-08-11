@@ -293,17 +293,17 @@
         "image": "MishariAlafassi.jfif",
         "surahs": [
           {
-            "Idx": "3",
-            "ContentRefrence": "سورة البقرة.mp3",
+            "Idx": "2",
+            "ContentRefrence": "SurahAlbaqarah_1.mp3",
             "Duration": "03:57",
-            "SpecialEnding": "",
+            "SpecialEnding": "1",
             "UniqueId": "1"
           },
           {
             "Idx": "36",
-            "ContentRefrence": "سورة يوسف.mp3",
+            "ContentRefrence": "SurahAlbaqarah_2.mp3",
             "Duration": "03:57",
-            "SpecialEnding": "",
+            "SpecialEnding": "2",
             "UniqueId": "40"
           }
         ]
