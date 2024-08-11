@@ -1,32 +1,16 @@
 {
     "Content": [
       {
-        "RepoLink" : "Quran/SpecialResources/",
+        "RepoLink" : "SpecialResources/",
         "displayName" : "Muslim App Special",
         "Items": [
           {
             "Idx": "2",
-            "type" : "audio",
+            "type" : "video",
             "ContentRefrence": "سورة البقرة.mp4",
-            "displayName": "Surah Al-Baqarah - سورة البقرة",
-            "ArtistName" : "Mishari Alafassi",
-            "Image" : "MishariAlafassi.jfif"
-          },
-          {
-            "Idx": "36",
-            "type" : "video",
-            "ContentRefrence": "سورة يس.mp3",
-            "displayName": "Al-Baqarah - سورة البقرة",
-            "ArtistName" : "Al Sudis",
-            "Image" : "MishariAlafassi.jfif"
-          },
-          {
-            "Idx": "-1",
-            "type" : "video",
-            "ContentRefrence": "1.mp4",
-            "displayName": "Sermon",
+            "displayName": "sermonAlSharaui.mp4",
             "ArtistName" : "Al Sha'araui",
-            "Image" : "FromVideo"
+            "Image" : "MishariAlafassi.jfif"
           }
         ]
       },
@@ -36,27 +20,11 @@
         "Items": [
           {
             "Idx": "2",
-            "type" : "audio",
+            "type" : "video",
             "ContentRefrence": "سورة البقرة.mp4",
-            "displayName": "Surah Al-Baqarah - سورة البقرة",
-            "ArtistName" : "Mishari Alafassi",
-            "Image" : "MishariAlafassi.jfif"
-          },
-          {
-            "Idx": "36",
-            "type" : "video",
-            "ContentRefrence": "سورة يس.mp3",
-            "displayName": "Al-Baqarah - سورة البقرة",
-            "ArtistName" : "Al Sudis",
-            "Image" : "MishariAlafassi.jfif"
-          },
-          {
-            "Idx": "-1",
-            "type" : "video",
-            "ContentRefrence": "1.mp4",
-            "displayName": "Sermon",
+            "displayName": "sermonAlSharaui.mp4",
             "ArtistName" : "Al Sha'araui",
-            "Image" : "FromVideo"
+            "Image" : "MishariAlafassi.jfif"
           }
         ]
       }
