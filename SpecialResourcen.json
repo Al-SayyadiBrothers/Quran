@@ -7,7 +7,7 @@
           {
             "Idx": "2",
             "type" : "video",
-            "ContentRefrence": "سورة البقرة.mp4",
+            "ContentRefrence": "sermonAlSharaui.mp4",
             "displayName": "sermonAlSharaui.mp4",
             "ArtistName" : "Al Sha'araui",
             "Image" : "appIcon.png"
@@ -15,14 +15,14 @@
         ]
       },
       {
-        "RepoLink" : "Quran/SpecialResources/",
+        "RepoLink" : "SpecialResources/",
         "displayName" : "Muslim App Special1",
         "Items": [
           {
             "Idx": "2",
             "type" : "video",
-            "ContentRefrence": "سورة البقرة.mp4",
-            "displayName": "sermonAlSharaui.mp4",
+            "ContentRefrence": "sermonAlSharaui.mp4",
+            "displayName": "sermonAlSharaui",
             "ArtistName" : "Al Sha'araui",
             "Image" : "appIcon.png"
           }
