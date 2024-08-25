@@ -296,14 +296,14 @@
           {
             "Idx": "2",
             "ContentRefrence": "SurahAlbaqarah_1.mp3",
-            "Duration": "03:57",
+            "Duration": "-1",
             "SpecialEnding": "2",
             "UniqueId": "(1-2)"
           },
           {
             "Idx": "2",
             "ContentRefrence": "SurahAlbaqarah_2.mp3",
-            "Duration": "03:57",
+            "Duration": "-1",
             "SpecialEnding": "(2-2)",
             "UniqueId": "40"
           }
