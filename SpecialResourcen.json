@@ -1,7 +1,7 @@
 {
     "Content": [
       {
-        "RepoLink" : "SpecialResources/",
+        "RepoLink" : "https://raw.githubusercontent.com/Al-SayyadiBrothers/Quran/main/SpecialResources/",
         "displayName" : "Muslim App Special",
         "Items": [
           {
@@ -10,12 +10,13 @@
             "ContentRefrence": "sermonAlSharaui.mp4",
             "displayName": "sermonAlSharaui.mp4",
             "ArtistName" : "Al Sha'araui",
-            "Image" : "appIcon.png"
+            "Image" : "appIcon.png",
+            "duration" : "-1"
           }
         ]
       },
       {
-        "RepoLink" : "SpecialResources/",
+        "RepoLink" : "https://raw.githubusercontent.com/Al-SayyadiBrothers/Quran/main/SpecialResources/",
         "displayName" : "Muslim App Special1",
         "Items": [
           {
@@ -24,7 +25,8 @@
             "ContentRefrence": "ولا يفلح الساحر حيث أتى_.m4a",
             "displayName": "مقطع السحرة من سورة طه",
             "ArtistName" : "Yasser Aldousari",
-            "Image" : "yasseraldousery2.png"
+            "Image" : "yasseraldousery2.png",
+            "duration" : "-1"
           }
         ]
       }
