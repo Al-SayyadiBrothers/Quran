@@ -3,6 +3,7 @@
       {
         "RepoLink" : "https://raw.githubusercontent.com/Al-SayyadiBrothers/Quran/main/SpecialResources/",
         "displayName" : "Muslim App Special",
+        "ImageLink" : "AppIcon1.png",
         "Items": [
           {
             "Idx": "2",
@@ -18,6 +19,7 @@
       {
         "RepoLink" : "https://raw.githubusercontent.com/Al-SayyadiBrothers/Quran/main/SpecialResources/",
         "displayName" : "Muslim App Special1",
+        "ImageLink" : "AppIcon1.png",
         "Items": [
           {
             "Idx": "2",
