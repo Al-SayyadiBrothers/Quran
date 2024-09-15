@@ -2,14 +2,14 @@
     "Content": [
       {
         "RepoLink" : "https://raw.githubusercontent.com/Al-SayyadiBrothers/Quran/main/SpecialResources/",
-        "displayName" : "Muslim App Special",
+        "displayName" : "Videos",
         "ImageLink" : "AppIcon1.png",
         "Items": [
           {
             "Idx": "2",
             "type" : "video",
             "ContentRefrence": "sermonAlSharaui.mp4",
-            "displayName": "sermonAlSharaui.mp4",
+            "displayName": "Al Sha'araui",
             "ArtistName" : "Al Sha'araui",
             "Image" : "appIcon.png",
             "duration" : "-1"
