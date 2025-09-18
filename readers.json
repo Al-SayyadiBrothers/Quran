@@ -4,7 +4,7 @@
         "name": "Yasser Aldosari",
         "image": "yasseraldousery2.png",
         "SurahsPath" : "Quran/YasserAldousserry/",
-        "arabicName" : "ياسر الدوسري"
+        "arabicName" : "ياسر الدوسري",
         "surahs": [
           {
             "Idx": "46",
@@ -347,3 +347,4 @@
     ]
 
   }
+
