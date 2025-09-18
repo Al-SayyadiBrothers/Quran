@@ -4,7 +4,7 @@
         "name": "Yasser Aldosari",
         "image": "yasseraldousery2.png",
         "SurahsPath" : "Quran/YasserAldousserry/",
-
+        "arabicName" : "ياسر الدوسري"
         "surahs": [
           {
             "Idx": "46",
@@ -332,6 +332,7 @@
         "name": "Mishari Alafasi",
         "image": "MishariAlafassi.jfif",
         "SurahsPath" : "Quran/MashariAlafassi/",
+        "arabicName" : "مشاري العفاسي",
         "surahs": [
           {
             "Idx": "12",
@@ -344,4 +345,5 @@
         ]
       }
     ]
+
   }
