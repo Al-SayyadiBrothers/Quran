@@ -3,134 +3,128 @@ from mutagen.easyid3 import EasyID3
 import os
 
 Surahnames = [
-        "الفاتحة"
-        ,"البقرة"
-        ,"آل عمران"
-        ,"النساء"
-        ,"المائدة"
-        ,"الأنعام"
-        ,"الأعراف"
-        ,"الأنفال"
-        ,"التوبة"
-        ,"يونس"
-        ,"هود"
-        ,"يوسف"
-        ,"الرعد"
-        ,"إبراهيم"
-        ,"الحجر"
-        ,"النحل"
-        ,"الإسراء"
-        ,"الكهف"
-        ,"مريم"
-        ,"طه"
-        ,"الأنبياء"
-        ,"الحج"
-        ,"المؤمنون"
-        ,"النور"
-        ,"الفرقان"
-        ,"الشعراء"
-        ,"النمل"
-        ,"القصص"
-        ,"العنكبوت"
-        ,"الروم"
-        ,"لقمان"
-        ,"السجدة"
-        ,"الأحزاب"
-        ,"سبأ"
-        ,"فاطر"
-        ,"يس"
-        ,"الصافات"
-        ,"ص"
-        ,"الزمر"
-        ,"غافر"
-        ,"فصلت"
-        ,"الشورى"
-        ,"الزخرف"
-        ,"الدخان"
-        ,"الجاثية"
-        ,"الأحقاف"
-        ,"محمد"
-        ,"الفتح"
-        ,"الحجرات"
-        ,"ق"
-        ,"الذاريات"
-        ,"الطور"
-        ,"النجم"
-        ,"القمر"
-        ,"الرحمن"
-        ,"الواقعة"
-        ,"الحديد"
-        ,"المجادلة"
-        ,"الحشر"
-        ,"الممتحنة"
-        ,"الصف"
-        ,"الجمعة"
-        ,"المنافقون"
-        ,"التغابن"
-        ,"الطلاق"
-        ,"التحريم"
-        ,"الملك"
-        ,"القلم"
-        ,"الحاقة"
-        ,"المعارج"
-        ,"نوح"
-        ,"الجن"
-        ,"المزمل"
-        ,"المدثر"
-        ,"القيامة"
-        ,"الإنسان"
-        ,"المرسلات"
-        ,"النبأ"
-        ,"النازعات"
-        ,"عبس"
-        ,"التكوير"
-        ,"الإنفطار"
-        ,"المطففين"
-        ,"الإنشقاق"
-        ,"البروج"
-        ,"الطارق"
-        ,"الأعلى"
-        ,"الغاشية"
-        ,"الفجر"
-        ,"البلد"
-        ,"الشمس"
-        ,"الليل"
-        ,"الضحى"
-        ,"الشرح"
-        ,"التين"
-        ,"العلق"
-        ,"القدر"
-        ,"البينة"
-        ,"الزلزلة"
-        ,"العاديات"
-        ,"القارعة"
-        ,"التكاثر"
-        ,"العصر"
-        ,"الهمزة"
-        ,"الفيل"
-        ,"قريش"
-        ,"الماعون"
-        ,"الكوثر"
-        ,"الكافرون"
-        ,"النصر"
-        ,"المسد"
-        ,"الإخلاص"
-        ,"الفلق"
-        ,"الناس"
-]
+     'Al-Fatiha'
+    ,'Al-Baqarah'
+    ,'Al-Imran'
+    ,'An-Nisa'
+    ,'Al-Maidah'
+    ,'Al-Anam'
+    ,'Al-Araf'
+    ,'Al-Anfal'
+    ,'Al-Tawbah'
+    ,'Yunus'
+    ,'Hud'
+    ,'Yusuf'
+    ,'Ar-Rad'
+    ,'Ibrahim'
+    ,'Al-Hijr'
+    ,'An-Nahl'
+    ,'Al-Isra'
+    ,'Al-Kahf'
+    ,'Maryam'
+    ,'Ta-Ha'
+    ,'Al-Anbiya'
+    ,'Al-Hajj'
+    ,'Al-Muminun'
+    ,'An-Nur'
+    ,'Al-Furqan'
+    ,'Ash-Shuara'
+    ,'An-Naml'
+    ,'Al-Qasas'
+    ,'Al-Ankabut'
+    ,'Ar-Rum'
+    ,'Luqman'
+    ,'As-Sajda'
+    ,'Al-Ahzab'
+    ,'Saba'
+    ,'Fatir'
+    ,'Ya-Sin'
+    ,'As-Saffat'
+    ,'Sad'
+    ,'Az-Zumar'
+    ,'Ghafir'
+    ,'Fussilat'
+    ,'Ash-Shura'
+    ,'Az-Zukhruf'
+    ,'Ad-Dukhan'
+    ,'Al-Jathiyah'
+    ,'Al-Ahqaf'
+    ,'Muhammad'
+    ,'Al-Fath'
+    ,'Al-Hujurat'
+    ,'Qaf'
+    ,'Adh-Dhariyat'
+    ,'At-Tur'
+    ,'An-Najm'
+    ,'Al-Qamar'
+    ,'Ar-Rahman'
+    ,'Al-Waqia'
+    ,'Al-Hadid'
+    ,'Al-Mujadila'
+    ,'Al-Hashr'
+    ,'Al-Mumtahina'
+    ,'As-Saff'
+    ,'Al-Jumuah'
+    ,'Al-Munafiqun'
+    ,'At-Taghabun'
+    ,'At-Talaq'
+    ,'At-Tahrim'
+    ,'Al-Mulk'
+    ,'Al-Qalam'
+    ,'Al-Haaqqa'
+    ,'Al-Maarij'
+    ,'Nuh'
+    ,'Al-Jinn'
+    ,'Al-Muzzammil'
+    ,'Al-Muddathir'
+    ,'Al-Qiyama'
+    ,'Al-Insan'
+    ,'Al-Mursalat'
+    ,'An-Naba'
+    ,'An-Naziaat'
+    ,'Abasa'
+    ,'At-Takwir'
+    ,'Al-Infitar'
+    ,'Al-Mutaffifin'
+    ,'Al-Inshiqaq'
+    ,'Al-Buruj'
+    ,'At-Tariq'
+    ,'Al-Ala'
+    ,'Al-Ghashiyah'
+    ,'Al-Fajr'
+    ,'Al-Balad'
+    ,'Ash-Shams'
+    ,'Al-Lail'
+    ,'Ad-Duha'
+    ,'Ash-Sharh'
+    ,'At-Tin'
+    ,'Al-Alaq'
+    ,'Al-Qadr'
+    ,'Al-Bayyina'
+    ,'Az-Zalzalah'
+    ,'Al-Adiyat'
+    ,'Al-Qaria'
+    ,'At-Takathur'
+    ,'Al-Asr'
+    ,'Al-Humazah'
+    ,'Al-Fil'
+    ,'Quraish'
+    ,'Al-Maaun'
+    ,'Al-Kawthar'
+    ,'Al-Kafirun'
+    ,'An-Nasr'
+    ,'Al-Masad'
+    ,'Al-Ikhlas'
+    ,'Al-Falaq'
+    ,'An-Nas'
+  ]
 
 def get_files_in_directory(directory):
     files = []
     for root, _, filenames in os.walk(directory):
         for filename in filenames:
+            append_to_file(f'<Surah Idx="1" ContentRefrence="{filename}" Duration="25:30"/>')
             print(filename)
-            for surahname in Surahnames:
-                index = filename.find(surahname)
-                
-                if index != -1:
-                    append_to_file(f'<Surah Idx="{index}" ContentRefrence="{filename}" Duration="25:30"/>')
-                    
-                index = -1
             
     return files
 
@@ -142,6 +136,6 @@ def append_to_file( data):
     except Exception as e:
         print("Error:", e)
 
-directory_path = 'Quran\YasserAldousserry'
+directory_path = './'
 all_files = get_files_in_directory(directory_path)
 print("All files in directory:", all_files)
