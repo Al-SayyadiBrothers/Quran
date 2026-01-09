@@ -1,351 +1,641 @@
 {
-    "readers": [
-      {
-        "name": "Yasser Aldosari",
-        "image": "yasseraldousery2.png",
-        "SurahsPath" : "Quran/YasserAldousserry/",
-        "SurahLink" : "https://media.muslims-app.com/",
-        "arabicName" : "ياسر الدوسري",
-        "surahs": [
+  "readers": [
+    {
+      "name": "Yasser Aldosari",
+      "image": "yasseraldousery2.png",
+      "SurahsPath": "Quran/YasserAldousserry/",
+      "SurahLink": "https://media.muslims-app.com/",
+      "arabicName": "ياسر الدوسري",
+      "surahs": [
+        {
+          "Idx": "46",
+          "ContentRefrence": "al-ahqaf.m4a",
+          "Duration": "10:28",
+          "SpecialEnding": "",
+          "UniqueId": "1",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "7",
+          "ContentRefrence": "al-araf_(1-2).m4a",
+          "Duration": "40:06",
+          "SpecialEnding": "(1-2)",
+          "UniqueId": "2",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "7",
+          "ContentRefrence": "al-araf_(2-2).m4a",
+          "Duration": "35:35",
+          "SpecialEnding": "(2-2)",
+          "UniqueId": "3",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "21",
+          "ContentRefrence": "al-anbia'a.m4a",
+          "Duration": "22:22",
+          "SpecialEnding": "",
+          "UniqueId": "4",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "6",
+          "ContentRefrence": "al-an'am.m4a",
+          "Duration": "59:05",
+          "SpecialEnding": "",
+          "UniqueId": "5",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "8",
+          "ContentRefrence": "al-anfal.m4a",
+          "Duration": "30:34",
+          "SpecialEnding": "",
+          "UniqueId": "6",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "17",
+          "ContentRefrence": "al-Isra'a.m4a",
+          "Duration": "36:23",
+          "SpecialEnding": "",
+          "UniqueId": "7",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "66",
+          "ContentRefrence": "al-tahrim.m4a",
+          "Duration": "05:40",
+          "SpecialEnding": "",
+          "UniqueId": "8",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "64",
+          "ContentRefrence": "al-taghabun.m4a",
+          "Duration": "04:49",
+          "SpecialEnding": "",
+          "UniqueId": "9",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "9",
+          "ContentRefrence": "al-tauba.m4a",
+          "Duration": "54:32",
+          "SpecialEnding": "",
+          "UniqueId": "10",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "45",
+          "ContentRefrence": "al-jathia.m4a",
+          "Duration": "07:34",
+          "SpecialEnding": "",
+          "UniqueId": "11",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "50",
+          "ContentRefrence": "al-haka.m4a",
+          "Duration": "14:47",
+          "SpecialEnding": "",
+          "UniqueId": "12",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "22",
+          "ContentRefrence": "al-haj.m4a",
+          "Duration": "24:35",
+          "SpecialEnding": "",
+          "UniqueId": "13",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "59",
+          "ContentRefrence": "al-hasher.m4a",
+          "Duration": "09:16",
+          "SpecialEnding": "",
+          "UniqueId": "14",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "44",
+          "ContentRefrence": "al-dukhan.m4a",
+          "Duration": "06:39",
+          "SpecialEnding": "",
+          "UniqueId": "15",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "30",
+          "ContentRefrence": "al-rum.m4a",
+          "Duration": "15:30",
+          "SpecialEnding": "",
+          "UniqueId": "16",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "43",
+          "ContentRefrence": "al-zukhrof.m4a",
+          "Duration": "15:41",
+          "SpecialEnding": "",
+          "UniqueId": "17",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "39",
+          "ContentRefrence": "al-zumer.m4a",
+          "Duration": "31:00",
+          "SpecialEnding": "",
+          "UniqueId": "18",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "32",
+          "ContentRefrence": "al-sajda.m4a",
+          "Duration": "11:12",
+          "SpecialEnding": "",
+          "UniqueId": "19",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "26",
+          "ContentRefrence": "al-shurara'a.m4a",
+          "Duration": "21:38",
+          "SpecialEnding": "",
+          "UniqueId": "20",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "42",
+          "ContentRefrence": "al-shoura.m4a",
+          "Duration": "15:34",
+          "SpecialEnding": "",
+          "UniqueId": "21",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "29",
+          "ContentRefrence": "al-ankabut.m4a",
+          "Duration": "18:00",
+          "SpecialEnding": "",
+          "UniqueId": "22",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "48",
+          "ContentRefrence": "al-fateh.m4a",
+          "Duration": "09:16",
+          "SpecialEnding": "",
+          "UniqueId": "23",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "28",
+          "ContentRefrence": "al-qasas.m4a",
+          "Duration": "25:30",
+          "SpecialEnding": "",
+          "UniqueId": "24",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "18",
+          "ContentRefrence": "al-kahf.m4a",
+          "Duration": "32:46",
+          "SpecialEnding": "",
+          "UniqueId": "25",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "23",
+          "ContentRefrence": "al-mueminun.m4a",
+          "Duration": "21:54",
+          "SpecialEnding": "",
+          "UniqueId": "26",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "58",
+          "ContentRefrence": "al-mujadela.m4a",
+          "Duration": "07:21",
+          "SpecialEnding": "",
+          "UniqueId": "27",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "60",
+          "ContentRefrence": "al-mumtahina.m4a",
+          "Duration": "06:42",
+          "SpecialEnding": "",
+          "UniqueId": "28",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "16",
+          "ContentRefrence": "al-nahil.m4a",
+          "Duration": "37:59",
+          "SpecialEnding": "",
+          "UniqueId": "29",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "4",
+          "ContentRefrence": "al-nisa'a_(1-2).m4a",
+          "Duration": "39:48",
+          "SpecialEnding": "(1-2)",
+          "UniqueId": "30",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "4",
+          "ContentRefrence": "al-nisa'a_(2-2).m4a",
+          "Duration": "40:04",
+          "SpecialEnding": "(2-2)",
+          "UniqueId": "31",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "27",
+          "ContentRefrence": "al-namel.m4a",
+          "Duration": "25:32",
+          "SpecialEnding": "",
+          "UniqueId": "32",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "38",
+          "ContentRefrence": "Sad.m4a",
+          "Duration": "14:22",
+          "SpecialEnding": "",
+          "UniqueId": "33",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "20",
+          "ContentRefrence": "taha.m4a",
+          "Duration": "27:00",
+          "SpecialEnding": "",
+          "UniqueId": "34",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "40",
+          "ContentRefrence": "ghafir.m4a",
+          "Duration": "22:03",
+          "SpecialEnding": "",
+          "UniqueId": "35",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "41",
+          "ContentRefrence": "fusilat.m4a",
+          "Duration": "16:50",
+          "SpecialEnding": "",
+          "UniqueId": "36",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "47",
+          "ContentRefrence": "mohamad.m4a",
+          "Duration": "12:01",
+          "SpecialEnding": "",
+          "UniqueId": "37",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "11",
+          "ContentRefrence": "hud.m4a",
+          "Duration": "39:06",
+          "SpecialEnding": "",
+          "UniqueId": "38",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "15",
+          "ContentRefrence": "al-hujurat.m4a",
+          "Duration": "07:13",
+          "SpecialEnding": "",
+          "UniqueId": "39",
+          "downloaded": "false"
+        },
+        {
+          "Idx": "61",
+          "ContentRefrence": "al-saf.m4a",
+          "Duration": "03:57",
+          "SpecialEnding": "",
+          "UniqueId": "40",
+          "downloaded": "false"
+        }
+      ]
+    },
+    {
+      "name": "Mishari Alafasi",
+      "image": "MishariAlafassi.jfif",
+      "SurahsPath": "Quran/MashariAlafassi/",
+      "SurahLink": "https://media.muslims-app.com/",
+      "arabicName": "مشاري العفاسي",
+      "surahs": [
+        {
+          "Idx": "12",
+          "ContentRefrence": "yusuf.mp3",
+          "Duration": "-1",
+          "SpecialEnding": "",
+          "UniqueId": "",
+          "downloaded": "false"
+        }
+      ]
+    },
+    {
+      "name": "Ahmad Obaid",
+      "image": "AhmadObaid.png",
+      "SurahsPath": "Quran/AhmadObaid/",
+      "SurahLink": "https://media.muslims-app.com/",
+      "arabicName": "أحمد عبيد",
+      "surahs": [
+        [
           {
-            "Idx": "46",
-            "ContentRefrence": "al-ahqaf.m4a",
-            "Duration": "10:28",
+            "Idx": "0",
+            "ContentRefrence": "Al-Fatiha.mp3",
+            "Duration": "00:44",
+            "SpecialEnding": "",
+            "UniqueId": "0",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "1",
+            "ContentRefrence": "Al-Baqarah.mp3",
+            "Duration": "105:11",
             "SpecialEnding": "",
             "UniqueId": "1",
-            "downloaded" : "false"
+            "downloaded": "false"
           },
           {
-            "Idx": "7",
-            "ContentRefrence": "al-araf_(1-2).m4a",
-            "Duration": "40:06",
-            "SpecialEnding": "(1-2)",
+            "Idx": "2",
+            "ContentRefrence": "Al-Imran.mp3",
+            "Duration": "60:59",
+            "SpecialEnding": "",
             "UniqueId": "2",
-            "downloaded" : "false"
+            "downloaded": "false"
           },
           {
-            "Idx": "7",
-            "ContentRefrence": "al-araf_(2-2).m4a",
-            "Duration": "35:35",
-            "SpecialEnding": "(2-2)",
+            "Idx": "3",
+            "ContentRefrence": "An-Nisa.mp3",
+            "Duration": "66:31",
+            "SpecialEnding": "",
             "UniqueId": "3",
-            "downloaded" : "false"
+            "downloaded": "false"
           },
           {
-            "Idx": "21",
-            "ContentRefrence": "al-anbia'a.m4a",
-            "Duration": "22:22",
+            "Idx": "4",
+            "ContentRefrence": "Al-Maidah.mp3",
+            "Duration": "56:11",
             "SpecialEnding": "",
             "UniqueId": "4",
-            "downloaded" : "false"
+            "downloaded": "false"
+          },
+          {
+            "Idx": "5",
+            "ContentRefrence": "Al-Anam.mp3",
+            "Duration": "63:27",
+            "SpecialEnding": "",
+            "UniqueId": "5",
+            "downloaded": "false"
           },
           {
             "Idx": "6",
-            "ContentRefrence": "al-an'am.m4a",
-            "Duration": "59:05",
+            "ContentRefrence": "Al-Araf.mp3",
+            "Duration": "68:45",
             "SpecialEnding": "",
-            "UniqueId": "5",
-            "downloaded" : "false"
+            "UniqueId": "6",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "7",
+            "ContentRefrence": "Al-Anfal.mp3",
+            "Duration": "29:45",
+            "SpecialEnding": "",
+            "UniqueId": "7",
+            "downloaded": "false"
           },
           {
             "Idx": "8",
-            "ContentRefrence": "al-anfal.m4a",
-            "Duration": "30:34",
-            "SpecialEnding": "",
-            "UniqueId": "6",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "17",
-            "ContentRefrence": "al-Isra'a.m4a",
-            "Duration": "36:23",
-            "SpecialEnding": "",
-            "UniqueId": "7",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "66",
-            "ContentRefrence": "al-tahrim.m4a",
-            "Duration": "05:40",
+            "ContentRefrence": "At-Tawbah.mp3",
+            "Duration": "55:04",
             "SpecialEnding": "",
             "UniqueId": "8",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "64",
-            "ContentRefrence": "al-taghabun.m4a",
-            "Duration": "04:49",
-            "SpecialEnding": "",
-            "UniqueId": "9",
-            "downloaded" : "false"
+            "downloaded": "false"
           },
           {
             "Idx": "9",
-            "ContentRefrence": "al-tauba.m4a",
-            "Duration": "54:32",
+            "ContentRefrence": "Yunus.mp3",
+            "Duration": "40:39",
+            "SpecialEnding": "",
+            "UniqueId": "9",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "10",
+            "ContentRefrence": "Hud.mp3",
+            "Duration": "43:11",
             "SpecialEnding": "",
             "UniqueId": "10",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "45",
-            "ContentRefrence": "al-jathia.m4a",
-            "Duration": "07:34",
-            "SpecialEnding": "",
-            "UniqueId": "11",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "50",
-            "ContentRefrence": "al-haka.m4a",
-            "Duration": "14:47",
-            "SpecialEnding": "",
-            "UniqueId": "12",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "22",
-            "ContentRefrence": "al-haj.m4a",
-            "Duration": "24:35",
-            "SpecialEnding": "",
-            "UniqueId": "13",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "59",
-            "ContentRefrence": "al-hasher.m4a",
-            "Duration": "09:16",
-            "SpecialEnding": "",
-            "UniqueId": "14",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "44",
-            "ContentRefrence": "al-dukhan.m4a",
-            "Duration": "06:39",
-            "SpecialEnding": "",
-            "UniqueId": "15",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "30",
-            "ContentRefrence": "al-rum.m4a",
-            "Duration": "15:30",
-            "SpecialEnding": "",
-            "UniqueId": "16",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "43",
-            "ContentRefrence": "al-zukhrof.m4a",
-            "Duration": "15:41",
-            "SpecialEnding": "",
-            "UniqueId": "17",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "39",
-            "ContentRefrence": "al-zumer.m4a",
-            "Duration": "31:00",
-            "SpecialEnding": "",
-            "UniqueId": "18",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "32",
-            "ContentRefrence": "al-sajda.m4a",
-            "Duration": "11:12",
-            "SpecialEnding": "",
-            "UniqueId": "19",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "26",
-            "ContentRefrence": "al-shurara'a.m4a",
-            "Duration": "21:38",
-            "SpecialEnding": "",
-            "UniqueId": "20",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "42",
-            "ContentRefrence": "al-shoura.m4a",
-            "Duration": "15:34",
-            "SpecialEnding": "",
-            "UniqueId": "21",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "29",
-            "ContentRefrence": "al-ankabut.m4a",
-            "Duration": "18:00",
-            "SpecialEnding": "",
-            "UniqueId": "22",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "48",
-            "ContentRefrence": "al-fateh.m4a",
-            "Duration": "09:16",
-            "SpecialEnding": "",
-            "UniqueId": "23",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "28",
-            "ContentRefrence": "al-qasas.m4a",
-            "Duration": "25:30",
-            "SpecialEnding": "",
-            "UniqueId": "24",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "18",
-            "ContentRefrence": "al-kahf.m4a",
-            "Duration": "32:46",
-            "SpecialEnding": "",
-            "UniqueId": "25",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "23",
-            "ContentRefrence": "al-mueminun.m4a",
-            "Duration": "21:54",
-            "SpecialEnding": "",
-            "UniqueId": "26",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "58",
-            "ContentRefrence": "al-mujadela.m4a",
-            "Duration": "07:21",
-            "SpecialEnding": "",
-            "UniqueId": "27",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "60",
-            "ContentRefrence": "al-mumtahina.m4a",
-            "Duration": "06:42",
-            "SpecialEnding": "",
-            "UniqueId": "28",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "16",
-            "ContentRefrence": "al-nahil.m4a",
-            "Duration": "37:59",
-            "SpecialEnding": "",
-            "UniqueId": "29",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "4",
-            "ContentRefrence": "al-nisa'a_(1-2).m4a",
-            "Duration": "39:48",
-            "SpecialEnding": "(1-2)",
-            "UniqueId": "30",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "4",
-            "ContentRefrence": "al-nisa'a_(2-2).m4a",
-            "Duration": "40:04",
-            "SpecialEnding": "(2-2)",
-            "UniqueId": "31",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "27",
-            "ContentRefrence": "al-namel.m4a",
-            "Duration": "25:32",
-            "SpecialEnding": "",
-            "UniqueId": "32",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "38",
-            "ContentRefrence": "Sad.m4a",
-            "Duration": "14:22",
-            "SpecialEnding": "",
-            "UniqueId": "33",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "20",
-            "ContentRefrence": "taha.m4a",
-            "Duration": "27:00",
-            "SpecialEnding": "",
-            "UniqueId": "34",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "40",
-            "ContentRefrence": "ghafir.m4a",
-            "Duration": "22:03",
-            "SpecialEnding": "",
-            "UniqueId": "35",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "41",
-            "ContentRefrence": "fusilat.m4a",
-            "Duration": "16:50",
-            "SpecialEnding": "",
-            "UniqueId": "36",
-            "downloaded" : "false"
-          },
-          {
-            "Idx": "47",
-            "ContentRefrence": "mohamad.m4a",
-            "Duration": "12:01",
-            "SpecialEnding": "",
-            "UniqueId": "37",
-            "downloaded" : "false"
+            "downloaded": "false"
           },
           {
             "Idx": "11",
-            "ContentRefrence": "hud.m4a",
-            "Duration": "39:06",
+            "ContentRefrence": "Yusuf.mp3",
+            "Duration": "40:40",
             "SpecialEnding": "",
-            "UniqueId": "38",
-            "downloaded" : "false"
+            "UniqueId": "11",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "12",
+            "ContentRefrence": "Ar-Rad.mp3",
+            "Duration": "19:37",
+            "SpecialEnding": "",
+            "UniqueId": "12",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "13",
+            "ContentRefrence": "Ibrahim.mp3",
+            "Duration": "18:32",
+            "SpecialEnding": "",
+            "UniqueId": "13",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "14",
+            "ContentRefrence": "Al-Hijr.mp3",
+            "Duration": "15:11",
+            "SpecialEnding": "",
+            "UniqueId": "14",
+            "downloaded": "false"
           },
           {
             "Idx": "15",
-            "ContentRefrence": "al-hujurat.m4a",
-            "Duration": "07:13",
+            "ContentRefrence": "An-Nahl.mp3",
+            "Duration": "33:46",
             "SpecialEnding": "",
-            "UniqueId": "39",
-            "downloaded" : "false"
+            "UniqueId": "15",
+            "downloaded": "false"
           },
           {
-            "Idx": "61",
-            "ContentRefrence": "al-saf.m4a",
-            "Duration": "03:57",
+            "Idx": "16",
+            "ContentRefrence": "Al-Isra.mp3",
+            "Duration": "31:57",
             "SpecialEnding": "",
-            "UniqueId": "40",
-            "downloaded" : "false"
-          }
-        ]
-      },
-      {
-        "name": "Mishari Alafasi",
-        "image": "MishariAlafassi.jfif",
-        "SurahsPath" : "Quran/MashariAlafassi/",
-        "SurahLink" : "https://media.muslims-app.com/",
-        "arabicName" : "مشاري العفاسي",
-        "surahs": [
+            "UniqueId": "16",
+            "downloaded": "false"
+          },
           {
-            "Idx": "12",
-            "ContentRefrence": "yusuf.mp3",
-            "Duration": "-1",
+            "Idx": "17",
+            "ContentRefrence": "Al-Kahf.mp3",
+            "Duration": "27:55",
             "SpecialEnding": "",
-            "UniqueId": "",
-            "downloaded" : "false"
+            "UniqueId": "17",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "18",
+            "ContentRefrence": "Maryam.mp3",
+            "Duration": "20:42",
+            "SpecialEnding": "",
+            "UniqueId": "18",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "19",
+            "ContentRefrence": "Ta-Ha.mp3",
+            "Duration": "27:33",
+            "SpecialEnding": "",
+            "UniqueId": "19",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "20",
+            "ContentRefrence": "Al-Anbiya.mp3",
+            "Duration": "26:47",
+            "SpecialEnding": "",
+            "UniqueId": "20",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "21",
+            "ContentRefrence": "Al-Hajj.mp3",
+            "Duration": "25:27",
+            "SpecialEnding": "",
+            "UniqueId": "21",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "22",
+            "ContentRefrence": "Al-Muminun.mp3",
+            "Duration": "24:57",
+            "SpecialEnding": "",
+            "UniqueId": "22",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "23",
+            "ContentRefrence": "An-Nur.mp3",
+            "Duration": "28:25",
+            "SpecialEnding": "",
+            "UniqueId": "23",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "24",
+            "ContentRefrence": "Al-Furqan.mp3",
+            "Duration": "22:03",
+            "SpecialEnding": "",
+            "UniqueId": "24",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "25",
+            "ContentRefrence": "Ash-Shuara.mp3",
+            "Duration": "28:06",
+            "SpecialEnding": "",
+            "UniqueId": "25",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "26",
+            "ContentRefrence": "An-Naml.mp3",
+            "Duration": "25:54",
+            "SpecialEnding": "",
+            "UniqueId": "26",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "27",
+            "ContentRefrence": "Al-Qasas.mp3",
+            "Duration": "27:53",
+            "SpecialEnding": "",
+            "UniqueId": "27",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "28",
+            "ContentRefrence": "Al-Ankabut.mp3",
+            "Duration": "20:31",
+            "SpecialEnding": "",
+            "UniqueId": "28",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "29",
+            "ContentRefrence": "Ar-Rum.mp3",
+            "Duration": "15:37",
+            "SpecialEnding": "",
+            "UniqueId": "29",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "30",
+            "ContentRefrence": "Luqman.mp3",
+            "Duration": "09:34",
+            "SpecialEnding": "",
+            "UniqueId": "30",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "31",
+            "ContentRefrence": "As-Sajda.mp3",
+            "Duration": "07:12",
+            "SpecialEnding": "",
+            "UniqueId": "31",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "32",
+            "ContentRefrence": "Al-Ahzab.mp3",
+            "Duration": "25:59",
+            "SpecialEnding": "",
+            "UniqueId": "32",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "33",
+            "ContentRefrence": "Saba.mp3",
+            "Duration": "16:28",
+            "SpecialEnding": "",
+            "UniqueId": "33",
+            "downloaded": "false"
+          },
+          {
+            "Idx": "34",
+            "ContentRefrence": "Fatir.mp3",
+            "Duration": "16:12",
+            "SpecialEnding": "",
+            "UniqueId": "34",
+            "downloaded": "false"
           }
         ]
-      }
-    ]
-  }
-
+      ]
+    }
+  ]
+}
