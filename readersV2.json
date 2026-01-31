@@ -1,11 +1,12 @@
 {
   "readers": [
     {
-      "name": "Yasser Aldosari",
-      "image": "yasseraldousery2.png",
+      "name": "Yasser Al-Dosari 1425 H",
+      "image": "yasseraldousery.png",
       "SurahsPath": "Quran/YasserAldousserry/",
       "SurahLink": "https://media.muslims-app.com/",
-      "arabicName": "ياسر الدوسري",
+      "arabicName": "ياسر الدوسري 1425 هـ",
+      "fullQuran": "false",
       "surahs": [
         {
           "Idx": "46",
@@ -338,28 +339,12 @@
       ]
     },
     {
-      "name": "Mishari Alafasi",
-      "image": "MishariAlafassi.jfif",
-      "SurahsPath": "Quran/MashariAlafassi/",
-      "SurahLink": "https://media.muslims-app.com/",
-      "arabicName": "مشاري العفاسي",
-      "surahs": [
-        {
-          "Idx": "12",
-          "ContentRefrence": "yusuf.mp3",
-          "Duration": "-1",
-          "SpecialEnding": "",
-          "UniqueId": "",
-          "downloaded": "false"
-        }
-      ]
-    },
-    {
       "name": "Ahmad Obaid",
       "image": "AhmadObaid.png",
       "SurahsPath": "Quran/AhmadObaid/",
       "SurahLink": "https://media.muslims-app.com/",
       "arabicName": "أحمد عبيد",
+      "fullQuran": "false",
       "surahs": [
         {
           "Idx": "1",
@@ -642,6 +627,39 @@
           "downloaded": "false"
         }
       ]
+    },
+    {
+      "name": "Mishary Rashid Al-Afasy",
+      "image": "MishariAlafassi.jfif",
+      "SurahsPath": "afs/",
+      "SurahLink": "https://server8.mp3quran.net/",
+      "arabicName": "مشاري راشد العفاسي",
+      "fullQuran": "true"
+    },
+    {
+      "name": "Abu Bakr Al-Shatri",
+      "image": "abuBakrAlShatri.jfif",
+      "SurahsPath": "shatri/",
+      "SurahLink": "https://server11.mp3quran.net/",
+      "arabicName": "أبو بكر الشاطري",
+      "fullQuran": "true"
+    },
+    {
+      "name": "Nasser Al-Qatami",
+      "image": "nasser_al_qatami.jpg",
+      "SurahsPath": "qtm/",
+      "SurahLink": "https://server6.mp3quran.net/",
+      "arabicName": "ناصر القطامي",
+      "fullQuran": "true"
+    },
+    {
+      "name": "Yasser Al-Dosari",
+      "image": "yasseraldousery2.png",
+      "SurahsPath": "yasser/",
+      "SurahLink": "https://server11.mp3quran.net/",
+      "arabicName": "ياسر الدوسري",
+      "fullQuran": "true"
     }
+      
   ]
 }
